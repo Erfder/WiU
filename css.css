@@ -25,3 +25,14 @@ div.left{
     width: 20%;
     margin-top: 5%;
 }
+table{
+    background: #8fddff;
+    width: 40%;
+    border: 3px solid #252525;
+}
+th{
+    border-bottom: 1px solid #252525;
+}
+a:visited{
+    color: #3333cc;
+}
